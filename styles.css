@@ -1,0 +1,11 @@
+:root {
+  --primary-color: hsl(0 0% 100%);
+  --secondary-color: hsl(212 45% 89%);
+  --third-color: hsl(216 15% 48%);
+  --fourth-color: hsl(218 44% 22%);
+  --font-weight: 400;
+  --font-weight: 700;
+  --font-size: 15px;
+  /*--primary-padding: 20px;
+  --secondary-padding: 10px;*/
+}
